@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole!
-- 🎓 I'm a graduate student in Northwestern.
-- 👀 I'm a marketing analytics expert and data storyteller.
+- 🎓 I'm a graduate student at Northwestern.
+- 👀 I'm a data analyst and storyteller. Experienced in marketing analytics and research.
 - ⚡ Fun fact: A huge anime fan and a total foodie!
 
 
